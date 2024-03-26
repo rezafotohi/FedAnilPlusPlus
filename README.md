@@ -117,7 +117,7 @@ If you publish work that uses FedAnil++, please cite FedAnil++ as follows:
 
 ```bibtex
 @article{2024FedAnil++,
-  title={A Lightweight and Secure Deep Learning Model for Privacy-Preserving Federated Learning in Intelligent Enterprises},
+  title={A Privacy-Preserving and Communication-Efficient Federated Deep Learning Model for Intelligent Enterprises},
   author={R. Fotohi, F. S. Aliee, and B. Farahani},
   journal={Under Review!},
   year={2024}
