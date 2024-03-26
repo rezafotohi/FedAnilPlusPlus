@@ -15,8 +15,8 @@ PyTorch 2.2.1
 ```
 (2) Download the repo
 ```
-git clone https://github.com/rezafotohi/FedAnilPlus.git
-cd FedAnilPlus
+git clone https://github.com/rezafotohi/FedAnilPlusPlus.git
+cd FedAnilPlusPlus
 ```
 (3) Create a new conda environment with Python 3.10
 ```
