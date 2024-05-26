@@ -141,10 +141,15 @@ If you publish work that uses FedAnil++, please cite FedAnil++ as follows:
 
 ```bibtex
 @article{2024FedAnil++,
-  title={A Privacy-Preserving and Communication-Efficient Federated Deep Learning Model for Intelligent Enterprises},
-  author={R. Fotohi, F. S. Aliee, and B. Farahani},
-  journal={Under Review!},
-  year={2024}
+  title = {A Privacy-Preserving and Communication-Efficient Federated Deep Learning Model for Intelligent Enterprises},
+  author = {Reza Fotohi and Fereidoon Shams Aliee and Bahar Farahani},
+  journal= {Under Review!},
+  volume = {},
+  pages = {},
+  year = {2024},
+  issn = {},
+  doi = {},
+  url = {},
 }
 ```
 
