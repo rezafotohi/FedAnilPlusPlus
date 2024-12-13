@@ -1,5 +1,3 @@
-
-
 from Block import Block
 import copy
 
